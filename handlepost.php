@@ -48,7 +48,9 @@
     Welcome to Nghia's MIS 4013 HW 1. This card is 1/8 bootstrap components.
   </div>
 </div>
-    <h1>PHP Attempt</h1>
+    <h1>PHP Post Response Attempt</h1>
+   Welcome <?php echo $_POST["name"]; ?><br>
+Your email address is: <?php echo $_POST["email"]; ?>
     <a class="btn btn-primary" href="
                                      page3.html" role="button">Go to Page 3</a>
 
