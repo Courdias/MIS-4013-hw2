@@ -48,7 +48,7 @@
     Welcome to Nghia's MIS 4013 HW 1. This card is 1/8 bootstrap components.
   </div>
 </div>
-    <h1>HW2 Post Response</h1>
+    <h1>HW2 Get Response</h1>
     <html>
 <body>
 
