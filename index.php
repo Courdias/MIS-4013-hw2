@@ -48,7 +48,18 @@
     Welcome to Nghia's MIS 4013 HW 1. This card is 1/8 bootstrap components.
   </div>
 </div>
-    <h1>Hello, world!</h1>
+    <h1>Hello, Welcome to MIS 4014 HW 2</h1>
+    <html>
+<body>
+
+<form action="welcome.php" method="post">
+Name: <input type="text" name="name"><br>
+E-mail: <input type="text" name="email"><br>
+<input type="submit">
+</form>
+
+</body>
+</html>
     <a class="btn btn-primary" href="
                                      page3.html" role="button">Go to Page 3</a>
 
