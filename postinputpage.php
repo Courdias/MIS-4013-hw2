@@ -3,7 +3,7 @@
 
 <?php
   include "header.php";
-  include "inputget.php";
+  include "inputpost.php";
 
   // include main content
   
