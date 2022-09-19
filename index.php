@@ -26,7 +26,7 @@
             Start Here!
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="page2.html">This Link does work: Page 2!</a></li>
+            <li><a class="dropdown-item" href="header.php">This leads to webpage section 1, header!</a></li>
             <li><a class="dropdown-item" href="#">This Link doesn't go anywhere, but this navbar is 2/8 bootstrap components.</a></li>
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#">Something else here</a></li>
@@ -67,7 +67,7 @@ E-mail: <input type="text" name="email"><br>
 </body>
 </html>
     <a class="btn btn-primary" href="
-                                     header.php" role="button">Testing Header</a>
+                                     indexsections.php" role="button">Index, with Sections</a>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
   </body>
