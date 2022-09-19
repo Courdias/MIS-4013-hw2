@@ -4,7 +4,7 @@
   </a>
 
   <ul class="dropdown-menu">
-    <li><a class="dropdown-item" href="postinputpage.php">Go to Post Input Page</a></li>
-    <li><a class="dropdown-item" href="getinputpage.php">Go to Get Input Page</a></li>
+    <li><a class="dropdown-item" href="inputpagepost.php">Go to Post Input Page</a></li>
+    <li><a class="dropdown-item" href="inputpageget.php">Go to Get Input Page</a></li>
   </ul>
 </div>
