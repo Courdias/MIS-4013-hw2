@@ -1,8 +1,9 @@
 <!doctype html>
 <html lang="en">
  
-   <?php
+ <?php
   include "header.php";
   include "dropdown.php";
   ?>
+ 
 </html>
