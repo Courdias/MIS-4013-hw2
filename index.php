@@ -1,10 +1,7 @@
 <!doctype html>
 <?php
   include "header.php";
-?>
-    </body>
-
-<?php
+  include "gohomebutton.php";
   include "dropdown.php";
 ?>
 </html>
