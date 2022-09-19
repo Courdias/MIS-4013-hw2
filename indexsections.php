@@ -3,7 +3,7 @@
 
 <?php
   include "header.php";
-  //include "menu.inc";
+  include "inputget.php";
 
   // include main content
   
