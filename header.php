@@ -45,8 +45,8 @@
 </nav>
     <div class="card">
   <div class="card-body">
-    Welcome to Nghia's MIS 4013 HW 1. This card is 1/8 bootstrap components.
+    Welcome to Nghia's MIS 4013 HW 2.
   </div>
 </div>
-    <h1>Hello, world!</h1>
+    <h1>This is a consistent header.</h1>
    
