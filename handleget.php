@@ -17,5 +17,12 @@ Your email address is: <?php echo $_GET["email"]; ?>
 <?php
   include "gohomebutton.php";
 ?>
-  
+  <?php
+function writeMsg() {
+  echo "You can tell this is a get because the input shows in the url.!";
+}
+
+writeMsg();
+?>
+
 </html>
