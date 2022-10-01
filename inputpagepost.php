@@ -3,6 +3,12 @@
 
 <?php
   include "header.php";
+?>
+  
+  <body> 
+<?php
   include "inputpost.php";
 ?>
+    <body>
+
 </html>
