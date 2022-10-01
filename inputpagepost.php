@@ -9,6 +9,6 @@
 <?php
   include "inputpost.php";
 ?>
-    <body>
+  <body>
 
 </html>
