@@ -1,5 +1,3 @@
-    <html>
-<body>
 <form action="handlepost.php" method="post">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
