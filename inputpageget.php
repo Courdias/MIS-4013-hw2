@@ -9,6 +9,6 @@
 <?php
   include "inputget.php";
 ?>
-    <body>
+  <body>
 
 </html>
