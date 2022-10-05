@@ -4,5 +4,5 @@
   include "gohomebutton.php";
   include "dropdown.php";
 ?>
-<body>
+</body>
 </html>
